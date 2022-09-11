@@ -22,9 +22,9 @@ This code uses data for an election that happened in Colorado. The file that hel
 - Calculated the percentage of votes that each candidate made.
 - Printed the results like the following text:
   -------------------------
-  Candidate 1 (total votes) (percentage of votes)
-  Candidate 2 (total votes) (percentage of votes)
-  Candidate 3 (total votes) (percentage of votes)
+  Candidate 1 (total votes) (percentage of votes) and (number of votes)
+  Candidate 2 (total votes) (percentage of votes) and (number of votes)
+  Candidate 3 (total votes) (percentage of votes) and (number of votes)
   -------------------------
   
   -Found the winning candidate and printed the following results:
